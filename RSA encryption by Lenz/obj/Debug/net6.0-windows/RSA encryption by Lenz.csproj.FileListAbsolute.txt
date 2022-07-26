@@ -1,0 +1,17 @@
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\bin\Debug\net6.0-windows\RSA encryption by Lenz.exe
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\bin\Debug\net6.0-windows\RSA encryption by Lenz.deps.json
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\bin\Debug\net6.0-windows\RSA encryption by Lenz.runtimeconfig.json
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\bin\Debug\net6.0-windows\RSA encryption by Lenz.dll
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\bin\Debug\net6.0-windows\RSA encryption by Lenz.pdb
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.csproj.AssemblyReference.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA_encryption_by_Lenz.Form1.resources
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.csproj.GenerateResource.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.AssemblyInfoInputs.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.AssemblyInfo.cs
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.csproj.CoreCompileInputs.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.dll
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\refint\RSA encryption by Lenz.dll
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.pdb
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\RSA encryption by Lenz.genruntimeconfig.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\RSA encryption by Lenz\obj\Debug\net6.0-windows\ref\RSA encryption by Lenz.dll
